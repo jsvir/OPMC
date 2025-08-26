@@ -36,10 +36,10 @@ If you find this repository useful, please cite it:
 
 ```bibtex
 @software{Svirsky_OPMC_2024,
-author = {Svirsky, Jonathan},
-month = nov,
-title = {{OPMC}},
-url = {https://github.com/jsvir/OPMC},
-version = {1.0.0},
-year = {2024}
+  author = {Svirsky, Jonathan},
+  month = nov,
+  title = {{OPMC}},
+  url = {https://github.com/jsvir/OPMC},
+  version = {1.0.0},
+  year = {2024}
 }
