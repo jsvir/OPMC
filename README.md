@@ -29,3 +29,17 @@ The dataset is assumed to be stored as a dictionary with keys:
 - **Scene15** Consists of 4,485 scene images belonging to 15 classes Fei-Fei & Perona (2005).
 - **RBGD** Kong et al. (2014): Consists of 1, 449 samples of indoor scenes image-text of 13 classes. We follow the version provided in Trosten et al. (2021a); Zhou & Shen (2020), where image features are extracted from a ResNet50 model pretrained on the ImageNet dataset and text features from a doc2vec model pretrained on the Wikipedia dataset
 
+
+## 📖 Citation
+
+If you find this repository useful, please cite it:
+
+```bibtex
+@software{Svirsky_OPMC_2024,
+author = {Svirsky, Jonathan},
+month = nov,
+title = {{OPMC}},
+url = {https://github.com/jsvir/OPMC},
+version = {1.0.0},
+year = {2024}
+}
